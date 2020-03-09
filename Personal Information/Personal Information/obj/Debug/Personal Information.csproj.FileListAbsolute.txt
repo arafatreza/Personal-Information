@@ -1,0 +1,9 @@
+E:\BITM Practice\Personal Information\Personal Information\bin\Debug\Personal Information.exe.config
+E:\BITM Practice\Personal Information\Personal Information\bin\Debug\Personal Information.exe
+E:\BITM Practice\Personal Information\Personal Information\bin\Debug\Personal Information.pdb
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal Information.csprojAssemblyReference.cache
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal_Information.Form1.resources
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal_Information.Properties.Resources.resources
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal Information.csproj.GenerateResource.cache
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal Information.exe
+E:\BITM Practice\Personal Information\Personal Information\obj\Debug\Personal Information.pdb
